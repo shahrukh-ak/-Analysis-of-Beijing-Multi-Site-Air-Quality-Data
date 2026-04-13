@@ -1,14 +1,25 @@
-# Analysis-of-Beijing-Multi-Site-Air-Quality-Data
-The data set Beijing Multi-Site Air-Quality Data provided in the UCI Machine Learning
-Repository includes hourly air pollutants data from 12 nationally-controlled air-quality
-monitoring sites. The air-quality data are from the Beijing Municipal Environmental
-Monitoring Center. The meteorological data in each air-quality site are matched with the 
-nearest weather station from the China Meteorological Administration. The time period is
-from March 1st, 2013 to February 28th, 2017. Missing data are denoted as NA.
-Source: Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X. (2017) Cautionary
-Tales on Air-Quality Improvement in Beijing. Proceedings of the Royal Society A, Volume
-473, No. 2205, Pages 04-57.<br>
-## Objectives:
-- Import the data from Wanliu and Tiantan stations in R and create a single data frame.<br>
-- Display the PM10 values by creating a side-by-side box plot for both stations.<br>
-- Test for significance difference in PM10 values in Wanliu and Tiantan.
+# Beijing Multi-Site Air Quality Analysis
+
+## Overview
+Analysis-of-Beijing-Multi-Site-Air-Quality-Data
+
+## Repository Contents
+- `Analysis of Beijing Multi Site Air Quality Data.R` — original source file provided by the user
+- `Analysis of Beijing Multi Site Air Quality Data_professional.R` — cleaned presentation version
+- `README.md` — project summary for GitHub reviewers
+
+## Workflow Covered
+- Objectives:
+- - Import the data from Wanliu and Tiantan stations in R and create a single data frame.
+- - Display the PM10 values by creating a side-by-side box plot for both stations.
+- - Test for significance difference in PM10 values in Wanliu and Tiantan.
+- Display the PM10 values by creating a side-by-side box plot for both stations.
+
+## Notes
+- The project scope and claims were kept aligned with the uploaded source file.
+- Decorative graphics, noisy outputs, and classroom-style formatting were removed where possible.
+- No new results, metrics, or business claims were added.
+
+## Usage
+- Open the professionalized file for review or presentation.
+- Update local file paths if the original project expects data from a specific machine or drive.
